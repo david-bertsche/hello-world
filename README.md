@@ -1,3 +1,3 @@
 # hello-world
 
-What is is like out there?
+What does it feel like to be out there in the big wide world?
